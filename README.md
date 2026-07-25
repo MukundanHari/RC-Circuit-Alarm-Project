@@ -9,7 +9,8 @@ Eventually, the idea evolved into an alarm that could be triggered depending on 
 with an LCD and MCU to see the actual expected and observed time with a certain potentiometer setting, as well as the status for the timer, 
 be it ready, timing or done.
 
-Overall, I've learnt a lot about basic circuit analysis, as well as electronic idealization with this project, which I continue into my future 
-projects like my Arduino Protein Shaker.
+Overall, I've learnt a lot about basic circuit analysis, as well as electronic idealization with this project, which I continue into with my future projects like my Arduino Protein Shaker.
 
 Additionally, for those interested, I have attached a file where I derived the time-trigger equation for the alarm, and one where I compare each observed and expected value to give a more accurate estimate as to the trigger time, accounting for real-world errors such as capacitor leakage, and component tolerances.
+
+(To Download the Schematic, you must download the raw file, and have KiCad)
