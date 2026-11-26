@@ -1,4 +1,4 @@
-This RC Circuit alarm is my first ever electrical engineering project. Though it only ended with a breadboard finalization, I believe 
+This RC Circuit alarm is my first ever embedded systems project. Though it only ended with a breadboard finalization, I believe 
 these projects are stepping stones to continously improve my skills. This project was done with no guidance which I believe aided 
 my research skills. 
 
